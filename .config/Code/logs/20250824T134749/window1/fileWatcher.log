@@ -1,4 +1,0 @@
-2025-08-24 13:48:09.890 [error] [File Watcher ('parcel')] Unexpected error: inotify_add_watch on '/home/sarvarbek/.config/Code/logs/20250822T154931/window2/exthost/vscode.typescript-language-features' failed: No such file or directory (EUNKNOWN) (path: /home/sarvarbek)
-2025-08-24 13:48:09.891 [error] [File Watcher (universal)] inotify_add_watch on '/home/sarvarbek/.config/Code/logs/20250822T154931/window2/exthost/vscode.typescript-language-features' failed: No such file or directory
-2025-08-24 13:59:19.643 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
-2025-08-24 13:59:19.645 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

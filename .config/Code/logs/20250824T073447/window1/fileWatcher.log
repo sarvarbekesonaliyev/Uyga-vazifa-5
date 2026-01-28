@@ -1,2 +1,0 @@
-2025-08-24 07:35:11.777 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
-2025-08-24 07:46:37.440 [error] [File Watcher ('parcel')] Unexpected error stopping watcher: Unable to remove watcher: Invalid argument (path: /home/sarvarbek)

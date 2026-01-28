@@ -1,4 +1,0 @@
-2025-08-24 14:26:00.634 [error] [File Watcher ('parcel')] Unexpected error: inotify_add_watch on '/home/sarvarbek/.config/Code/User/workspaceStorage/1756026080339' failed: No such file or directory (EUNKNOWN) (path: /home/sarvarbek)
-2025-08-24 14:26:00.635 [error] [File Watcher (universal)] inotify_add_watch on '/home/sarvarbek/.config/Code/User/workspaceStorage/1756026080339' failed: No such file or directory
-2025-08-24 14:29:50.452 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
-2025-08-24 14:29:50.456 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

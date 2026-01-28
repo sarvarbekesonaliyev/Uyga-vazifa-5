@@ -1,3 +1,0 @@
-2025-08-24 14:25:33.053 [info] Log level: Info
-2025-08-24 14:25:54.864 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: Request failed due to following response errors:
- - Could not resolve to a Repository with the name 'sarvarbekesonaliyev/sarvarbek'.

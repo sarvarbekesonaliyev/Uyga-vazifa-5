@@ -1,9 +1,0 @@
-2025-08-24 07:34:22.404 [info] GitLens v17.4.0 activating in Visual Studio Code (1.103.1) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (531c16064b4b2b65e2afce4c98340db7dda2ddbc0a34ed21601beadb54967939|08284447-d034-43cb-a9fe-d0e1c2166cbe1756002843296)
-To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
-[2025-08-24 02:34:20.963] [GIT          ] [/home/sarvarbek/Desktop/headphones-figma-main] git rev-parse --show-toplevel • spawn /usr/bin/git ENOENT [17ms]
-
-2025-08-24 07:34:22.404 [info] [2025-08-24 02:34:21.696] [GIT          ] [/home/sarvarbek/Desktop/headphones-figma-main] git rev-parse --show-toplevel • spawn /usr/bin/git ENOENT [14ms]
-
-2025-08-24 07:34:22.827 [info] [2025-08-24 02:34:22.407] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-list --max-parents=0 HEAD --): fatal: bad revision 'HEAD'
-
-

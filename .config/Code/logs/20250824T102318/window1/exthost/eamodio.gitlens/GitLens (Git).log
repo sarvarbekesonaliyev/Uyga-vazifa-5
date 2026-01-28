@@ -1,4 +1,0 @@
-2025-08-24 10:23:54.787 [info] [2025-08-24 05:23:54.783] [*      2018ms] [/home/sarvarbek] git shortlog -s --all --no-min-parents --since=1.year.ago (slow) • FAILED
-2025-08-24 10:23:54.787 [info] 
-Canceled: Operation cancelled; command=/usr/bin/git -c core.quotepath=false -c color.ui=false shortlog -s --all --no-min-parents --since=1.year.ago
-

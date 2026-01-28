@@ -1,2 +1,0 @@
-2025-08-24 12:10:47.232 [error] [File Watcher ('parcel')] Unexpected error: inotify_add_watch on '/home/sarvarbek/.config/Code/logs/20250822T134607/window1/exthost/vscode.github' failed: No such file or directory (EUNKNOWN) (path: /home/sarvarbek)
-2025-08-24 12:10:47.232 [error] [File Watcher (universal)] inotify_add_watch on '/home/sarvarbek/.config/Code/logs/20250822T134607/window1/exthost/vscode.github' failed: No such file or directory

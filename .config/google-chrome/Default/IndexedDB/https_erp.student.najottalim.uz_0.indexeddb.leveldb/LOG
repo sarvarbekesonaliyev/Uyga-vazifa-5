@@ -1,6 +1,0 @@
-2025/08/21-07:21:37.466 5284 Creating DB /home/sarvarbek/.config/google-chrome/Default/IndexedDB/https_erp.student.najottalim.uz_0.indexeddb.leveldb since it was missing.
-2025/08/21-07:21:37.472 5284 Reusing MANIFEST /home/sarvarbek/.config/google-chrome/Default/IndexedDB/https_erp.student.najottalim.uz_0.indexeddb.leveldb/MANIFEST-000001
-2025/08/21-07:21:37.512 5286 Level-0 table #5: started
-2025/08/21-07:21:37.516 5286 Level-0 table #5: 689 bytes OK
-2025/08/21-07:21:37.521 5286 Delete type=0 #3
-2025/08/21-07:21:37.521 5284 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
